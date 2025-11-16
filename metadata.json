@@ -1,0 +1,5 @@
+{
+  "name": "Crypto News CMS",
+  "description": "A web application to create and manage cryptocurrency news articles, with AI-powered content generation using the Gemini API.",
+  "requestFramePermissions": []
+}
